@@ -4,7 +4,7 @@
     "description": "Auto-updating dashboard of my public GitHub projects: stars, downloads, open issues and latest tags",
     "url": "https://github.com/taylorivanoff/projects-monitor",
     "homepage": null,
-    "language": null,
+    "language": "Python",
     "stars": 0,
     "downloads": 0,
     "open_issues": 0,

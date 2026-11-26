@@ -48,7 +48,7 @@ _Last synced from the GitHub API on 2026-11-26 — refreshes daily._
 | [icloud-windows-base](https://github.com/taylorivanoff/icloud-windows-base) | Shared Electron wrapper for iCloud Windows apps | JavaScript | 0 | 0 | 0 | v1.0.34 | 2026-11-24 |
 | [issue-tracking-app](https://github.com/taylorivanoff/issue-tracking-app) | Software development issue tracking app | PHP | 0 | 0 | 0 | — | 2026-08-04 |
 | [laravel-ecommerce-blade-demo](https://github.com/taylorivanoff/laravel-ecommerce-blade-demo) | Storefront application for e-commerce | PHP | 0 | 0 | 0 | — | 2026-08-04 |
-| [projects-monitor](https://github.com/taylorivanoff/projects-monitor) | Auto-updating dashboard of my public GitHub projects: stars, downloads, open issues and latest tags | — | 0 | 0 | 0 | — | 2026-11-26 |
+| [projects-monitor](https://github.com/taylorivanoff/projects-monitor) | Auto-updating dashboard of my public GitHub projects: stars, downloads, open issues and latest tags | Python | 0 | 0 | 0 | — | 2026-11-26 |
 | [standup-notes-app](https://github.com/taylorivanoff/standup-notes-app) | WYSIWYG daily notes to help manage stand-up meetings | PHP | 0 | 0 | 0 | — | 2026-07-20 |
 | [stock-exchange-laravel-api](https://github.com/taylorivanoff/stock-exchange-laravel-api) | A stock trading API where you can buy and sell stocks | PHP | 0 | 0 | 0 | — | 2026-11-24 |
 | [tauri-icloud-base](https://github.com/taylorivanoff/tauri-icloud-base) | — | Rust | 0 | 0 | 0 | — | 2026-11-24 |

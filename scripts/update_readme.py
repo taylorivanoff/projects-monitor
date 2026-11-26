@@ -48,6 +48,7 @@ query Monitor($login: String!, $after: String) {
         homepageUrl
         isArchived
         isFork
+        isPrivate
         updatedAt
         stargazerCount
         primaryLanguage {
@@ -166,7 +167,9 @@ def fetch_repositories(token: str) -> list[dict]:
         if user is None:
             raise SystemExit(f"GitHub user '{LOGIN}' was not found.")
         connection = user["repositories"]
-        repositories.extend(node for node in connection["nodes"] if node)
+        repositories.extend(
+            node for node in connection["nodes"] if node and not node["isPrivate"]
+        )
         if not connection["pageInfo"]["hasNextPage"]:
             return repositories
         after = connection["pageInfo"]["endCursor"]

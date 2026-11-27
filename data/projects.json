@@ -1,5 +1,31 @@
 [
   {
+    "name": "icloud-mail-windows",
+    "description": "iCloud Mail desktop app for Windows",
+    "url": "https://github.com/taylorivanoff/icloud-mail-windows",
+    "homepage": "",
+    "language": "NSIS",
+    "stars": 1,
+    "downloads": 187,
+    "open_issues": 0,
+    "latest_tag": "v2.0.7",
+    "tags": [
+      "v2.0.7",
+      "v2.0.6",
+      "v2.0.5",
+      "v2.0.4",
+      "v2.0.3",
+      "v2.0.2",
+      "v2.0.1",
+      "v2.0.0",
+      "v1.0.34",
+      "v1.0.28"
+    ],
+    "archived": false,
+    "fork": false,
+    "updated": "2026-11-26"
+  },
+  {
     "name": "projects-monitor",
     "description": "Auto-updating dashboard of my public GitHub projects: stars, downloads, open issues and latest tags",
     "url": "https://github.com/taylorivanoff/projects-monitor",
@@ -21,7 +47,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 49,
-    "downloads": 2346,
+    "downloads": 2385,
     "open_issues": 0,
     "latest_tag": "v2.0.9",
     "tags": [
@@ -47,10 +73,12 @@
     "homepage": null,
     "language": "Rust",
     "stars": 0,
-    "downloads": 4,
+    "downloads": 21,
     "open_issues": 0,
-    "latest_tag": "v0.1.2",
+    "latest_tag": "v0.1.4",
     "tags": [
+      "v0.1.4",
+      "v0.1.3",
       "v0.1.2",
       "v0.1.1",
       "v0.1.0"
@@ -66,7 +94,7 @@
     "homepage": "",
     "language": "Rust",
     "stars": 1,
-    "downloads": 85,
+    "downloads": 92,
     "open_issues": 0,
     "latest_tag": "v0.1.7",
     "tags": [
@@ -134,7 +162,7 @@
     "homepage": "https://github.com/taylorivanoff/pdf-to-txt/releases",
     "language": "JavaScript",
     "stars": 0,
-    "downloads": 31,
+    "downloads": 39,
     "open_issues": 0,
     "latest_tag": "v1.0.20",
     "tags": [
@@ -160,7 +188,7 @@
     "homepage": "",
     "language": "Rust",
     "stars": 0,
-    "downloads": 15,
+    "downloads": 19,
     "open_issues": 0,
     "latest_tag": "v0.1.7",
     "tags": [
@@ -180,7 +208,7 @@
     "homepage": null,
     "language": "NSIS",
     "stars": 0,
-    "downloads": 97,
+    "downloads": 102,
     "open_issues": 0,
     "latest_tag": "v1.0.2",
     "tags": [
@@ -225,7 +253,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 16,
-    "downloads": 1275,
+    "downloads": 1295,
     "open_issues": 4,
     "latest_tag": "v2.0.7",
     "tags": [
@@ -251,7 +279,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 4,
-    "downloads": 410,
+    "downloads": 418,
     "open_issues": 0,
     "latest_tag": "v2.0.7",
     "tags": [
@@ -277,7 +305,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 0,
-    "downloads": 170,
+    "downloads": 172,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -303,7 +331,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 2,
-    "downloads": 147,
+    "downloads": 152,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -323,39 +351,13 @@
     "updated": "2026-11-24"
   },
   {
-    "name": "icloud-mail-windows",
-    "description": "iCloud Mail desktop app for Windows",
-    "url": "https://github.com/taylorivanoff/icloud-mail-windows",
-    "homepage": "",
-    "language": "NSIS",
-    "stars": 0,
-    "downloads": 179,
-    "open_issues": 0,
-    "latest_tag": "v2.0.7",
-    "tags": [
-      "v2.0.7",
-      "v2.0.6",
-      "v2.0.5",
-      "v2.0.4",
-      "v2.0.3",
-      "v2.0.2",
-      "v2.0.1",
-      "v2.0.0",
-      "v1.0.34",
-      "v1.0.28"
-    ],
-    "archived": false,
-    "fork": false,
-    "updated": "2026-11-24"
-  },
-  {
     "name": "icloud-findmy-windows",
     "description": "iCloud Find My desktop app for Windows",
     "url": "https://github.com/taylorivanoff/icloud-findmy-windows",
     "homepage": "",
     "language": "NSIS",
     "stars": 0,
-    "downloads": 313,
+    "downloads": 325,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -381,7 +383,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 1,
-    "downloads": 257,
+    "downloads": 260,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -407,7 +409,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 1,
-    "downloads": 325,
+    "downloads": 330,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -433,7 +435,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 1,
-    "downloads": 153,
+    "downloads": 160,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -459,7 +461,7 @@
     "homepage": "",
     "language": "NSIS",
     "stars": 2,
-    "downloads": 777,
+    "downloads": 789,
     "open_issues": 0,
     "latest_tag": "v2.0.7",
     "tags": [
@@ -485,7 +487,7 @@
     "homepage": "",
     "language": "Rust",
     "stars": 0,
-    "downloads": 172,
+    "downloads": 182,
     "open_issues": 0,
     "latest_tag": "v1.1.3",
     "tags": [
@@ -511,7 +513,7 @@
     "homepage": "https://github.com/taylorivanoff/font-checker/releases",
     "language": "JavaScript",
     "stars": 0,
-    "downloads": 39,
+    "downloads": 46,
     "open_issues": 0,
     "latest_tag": "v1.0.16",
     "tags": [
@@ -554,7 +556,7 @@
     "homepage": "https://github.com/taylorivanoff/cmd-deck/releases",
     "language": "Rust",
     "stars": 2,
-    "downloads": 640,
+    "downloads": 647,
     "open_issues": 0,
     "latest_tag": "v1.0.28",
     "tags": [
@@ -580,7 +582,7 @@
     "homepage": "",
     "language": "JavaScript",
     "stars": 1,
-    "downloads": 37,
+    "downloads": 43,
     "open_issues": 0,
     "latest_tag": "v1.0.25",
     "tags": [
@@ -606,7 +608,7 @@
     "homepage": null,
     "language": "NSIS",
     "stars": 0,
-    "downloads": 105,
+    "downloads": 108,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -632,7 +634,7 @@
     "homepage": null,
     "language": "NSIS",
     "stars": 0,
-    "downloads": 116,
+    "downloads": 120,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -658,7 +660,7 @@
     "homepage": null,
     "language": "NSIS",
     "stars": 2,
-    "downloads": 192,
+    "downloads": 200,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
@@ -684,7 +686,7 @@
     "homepage": null,
     "language": "NSIS",
     "stars": 0,
-    "downloads": 93,
+    "downloads": 95,
     "open_issues": 0,
     "latest_tag": "v2.0.6",
     "tags": [
